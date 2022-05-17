@@ -1,0 +1,2 @@
+*.crypt.json filter=git-crypt diff=git-crypt
+.gitattributes !filter=git-crypt !diff=git-crypt
